@@ -1,0 +1,83 @@
+  /* {
+    margin: 0;
+    padding: 0;
+} */
+
+html, body {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+}
+:root {
+    height: 100%;
+}
+/*  DarkMode Feature Starts Here*/
+
+:root {
+    --primary-color: #fff;
+    --secondary-color: rgba(00, 00, 00, 1);
+    --border-primary: rgba(0, 0, 0, 0.9);
+    --top-headerCol:  rgb(168, 168, 168);
+  }
+  
+.dark-mode {
+    --primary-color: rgba(0, 0, 0, 1);
+    --secondary-color: #fff;
+    --border-primary: rgba(179, 0, 0, 0.9);
+    --top-headerCol: rgb(50, 50, 50);
+  }
+  
+  body {
+      background-color: var(--primary-color);
+      color: var(--secondary-color);
+  }
+
+/* LightBulb Starts Here */
+
+#lightBulb {
+    cursor: pointer;
+    width: 17px;
+    height: 17px;
+    float: right;
+    margin-top: 0rem;
+    max-width:unset;
+  max-height:unset;
+  margin-left: unset;
+  margin-right: 2rem;
+  background-color:transparent;
+  border:unset;
+  border-radius: unset;
+  padding-left: unset;
+  display: flex;
+  }
+/* LightBulb Ends here*/
+ 
+
+.vRule {
+    position: fixed;
+    width: 100%;
+    margin-top: 20.5rem;
+    transform: rotate(90deg);
+}
+
+.hRule {
+    position: inherit;
+    width: 100%;
+    margin-top: 20.5rem;
+}
+
+.hDiag {
+    position: fixed;
+    width: 100%;
+    transform: rotate(26.5deg);
+    margin-top: 20.5rem;
+}
+
+.hDiag0 {
+    display: flex;
+    position: fixed;
+    width: 100%;
+    transform: rotate(153deg);
+    flex-direction: row-reverse;
+    margin-top: 20.5rem;
+}
