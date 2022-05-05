@@ -7,6 +7,7 @@ html, body {
     height: 100%;
     width: 100%;
     position: fixed;
+    justify-content: center;
 }
 :root {
     height: 100%;
@@ -74,10 +75,454 @@ html, body {
 }
 
 .hDiag0 {
-    display: flex;
     position: fixed;
     width: 100%;
     transform: rotate(153deg);
     flex-direction: row-reverse;
     margin-top: 20.5rem;
 }
+
+/* MidSWU Starts Here */
+
+.midSWU {
+    position: fixed;
+    width: 17%;
+    transform: rotate(60deg);
+    flex-direction: row-reverse;
+    margin: 26.8rem 7rem;
+}
+
+.midSWU0 {
+    position: fixed;
+    width: 14.1%;
+    transform: rotate(60deg);
+    flex-direction: row-reverse;
+    margin: 25.8rem 13rem;
+}
+
+.midSWU1 {
+    position: fixed;
+    width: 11.2%;
+    transform: rotate(60deg);
+    flex-direction: row-reverse;
+    margin: 24.7rem 19rem;
+}
+
+.midSWU2 {
+    position: fixed;
+    width: 8.3%;
+    transform: rotate(60deg);
+    flex-direction: row-reverse;
+    margin: 23.7rem 25rem;
+}
+
+.midSWU3 {
+    position: fixed;
+    width: 5.6%;
+    transform: rotate(60deg);
+    flex-direction: row-reverse;
+    margin: 22.7rem 31rem;
+}
+
+.midSWU4 {
+    position: fixed;
+    width: 2.6%;
+    transform: rotate(60deg);
+    flex-direction: row-reverse;
+    margin: 21.5rem 37rem;
+}
+/* midSWL Starts Here */
+
+.midSWL {
+
+        position: fixed;
+        width: 30.7%;
+        transform: rotate( 20deg);
+        flex-direction: row-reverse;
+        margin: 37.6rem 17.2rem;
+    }
+
+.midSWL0 {
+
+        position: fixed;
+        width: 25.5%;
+        transform: rotate( 20deg);
+        flex-direction: row-reverse;
+        margin: 34.8rem 21.5rem;
+    }
+
+
+.midSWL1 {
+
+        position: fixed;
+        width: 20.5%;
+        transform: rotate( 20deg);
+        flex-direction: row-reverse;
+        margin: 31.9rem 25.7rem;
+    }
+
+.midSWL2 {
+
+        position: fixed;
+        width: 15.3%;
+        transform: rotate( 20deg);
+        flex-direction: row-reverse;
+        margin: 29rem 29.95rem;
+    }
+
+.midSWL3 {
+
+        position: fixed;
+        width: 10.1%;
+        transform: rotate( 20deg);
+        flex-direction: row-reverse;
+        margin: 26.2rem 34.4rem;
+    }
+
+.midSWL4 {
+
+        position: fixed;
+        width: 4.7%;
+        transform: rotate( 20deg);
+        flex-direction: row-reverse;
+        margin: 23.25rem 38.7rem;
+    }
+
+    /* midSEL Starts Here */
+
+.midSEL {
+        position: fixed;
+        width: 34%;
+        transform: rotate( -15deg);
+        flex-direction: row-reverse;
+        margin: 38.3rem 0rem 0rem 42.3rem;
+        
+    }
+
+.midSEL0 {
+        position: fixed;
+        width: 28.1%;
+        transform: rotate( -15deg);
+        flex-direction: row-reverse;
+        margin: 35.35rem 0rem 0rem 42.45rem;
+        
+    }
+
+.midSEL1 {
+        position: fixed;
+        width: 22.4%;
+        transform: rotate( -15deg);
+        flex-direction: row-reverse;
+        margin: 32.4rem 0rem 0rem 42.5rem;
+        
+    }
+
+.midSEL2 {
+        position: fixed;
+        width: 16.8%;
+        transform: rotate( -15deg);
+        flex-direction: row-reverse;
+        margin: 29.4rem 0rem 0rem 42.5rem;
+        
+    }
+
+.midSEL3 {
+        position: fixed;
+        width: 11.1%;
+        transform: rotate( -15deg);
+        flex-direction: row-reverse;
+        margin: 26.4rem 0rem 0rem 42.6rem;
+        
+    }
+
+.midSEL4 {
+        position: fixed;
+        width: 5.4%;
+        transform: rotate( -15deg);
+        flex-direction: row-reverse;
+        margin: 23.4rem 0rem 0rem 42.7rem;
+        
+    }
+
+    /* midSEU Starts Here */
+
+.midSEU {
+        position: fixed;
+        width: 18%;
+        transform: rotate( -65deg);
+        flex-direction: row-reverse;
+        margin: 27.5rem 0rem 0rem 66.5rem;
+        
+    }
+
+.midSEU0 {
+        position: fixed;
+        width: 15%;
+        transform: rotate( -65deg);
+        flex-direction: row-reverse;
+        margin: 26.3rem 0rem 0rem 62.5rem;
+        
+    }
+
+.midSEU1 {
+        position: fixed;
+        width: 12%;
+        transform: rotate( -65deg);
+        flex-direction: row-reverse;
+        margin: 25.1rem 0rem 0rem 58.5rem;
+        
+    }
+
+.midSEU2 {
+        position: fixed;
+        width: 8.9%;
+        transform: rotate( -65deg);
+        flex-direction: row-reverse;
+        margin: 24rem 0rem 0rem 54.5rem;
+        
+    }
+
+.midSEU3 {
+        position: fixed;
+        width: 5.9%;
+        transform: rotate( -65deg);
+        flex-direction: row-reverse;
+        margin: 22.8rem 0rem 0rem 50.5rem;
+        
+    }
+
+.midSEU4 {
+        position: fixed;
+        width: 2.8%;
+        transform: rotate( -65deg);
+        flex-direction: row-reverse;
+        margin: 21.6rem 0rem 0rem 46.65rem;
+        
+    }
+
+    /* midNEL Starts Here */
+
+    .midNEL {
+        position: fixed;
+        width: 18.3%;
+        transform: rotate( 60deg);
+        flex-direction: row-reverse;
+        margin: 13.6rem 0rem 0rem 65.6rem;
+        
+    }
+
+    .midNEL0 {
+        position: fixed;
+        width: 15.19%;
+        transform: rotate( 60deg);
+        flex-direction: row-reverse;
+        margin: 14.83rem 0rem 0rem 61.83rem;
+        
+    }
+
+    .midNEL1 {
+        position: fixed;
+        width: 12%;
+        transform: rotate( 60deg);
+        flex-direction: row-reverse;
+        margin: 15.93rem 0rem 0rem 58.05rem;
+        
+    }
+
+
+    .midNEL2 {
+        position: fixed;
+        width: 9.05%;
+        transform: rotate( 60deg);
+        flex-direction: row-reverse;
+        margin: 17.2rem 0rem 0rem 54.07rem;
+        
+    }
+
+    .midNEL3 {
+        position: fixed;
+        width: 5.85%;
+        transform: rotate( 60deg);
+        flex-direction: row-reverse;
+        margin: 18.3rem 0rem 0rem 50.3rem;
+        
+    }
+
+    .midNEL4 {
+        position: fixed;
+        width: 2.85%;
+        transform: rotate( 60deg);
+        flex-direction: row-reverse;
+        margin: 19.4rem 0rem 0rem 46.45rem;
+        
+    }
+
+    /* midNEU Starts Here*/
+
+    .midNEU {
+        position: fixed;
+        width: 32.4%;
+        transform: rotate( 15deg);
+        flex-direction: row-reverse;
+        margin: 3.2rem 0rem 0rem 42.28rem;
+        
+    }
+
+    .midNEU0 {
+        position: fixed;
+        width: 27%;
+        transform: rotate( 15deg);
+        flex-direction: row-reverse;
+        margin: 6.1rem 0rem 0rem 42.3rem;
+        
+    }
+
+    .midNEU1 {
+        position: fixed;
+        width: 21.6%;
+        transform: rotate( 15deg);
+        flex-direction: row-reverse;
+        margin: 9rem 0rem 0rem 42.4rem;
+        
+    }
+
+    .midNEU2 {
+        position: fixed;
+        width: 15.9%;
+        transform: rotate( 15deg);
+        flex-direction: row-reverse;
+        margin: 12rem 0rem 0rem 42.5rem;
+        
+    }
+
+    .midNEU3 {
+        position: fixed;
+        width: 10.5%;
+        transform: rotate( 15deg);
+        flex-direction: row-reverse;
+        margin: 14.9rem 0rem 0rem 42.6rem;
+        
+    }
+
+    .midNEU4 {
+        position: fixed;
+        width: 5.1%;
+        transform: rotate( 15deg);
+        flex-direction: row-reverse;
+        margin: 17.7rem 0rem 0rem 42.7rem;
+        
+    }
+
+    .midNWU {
+
+        position: fixed;
+        width: 30%;
+        transform: rotate( -20deg);
+        flex-direction: row-reverse;
+        margin: 4rem 0rem 0rem 17.8rem;
+    }
+
+    .midNWU0 {
+
+        position: fixed;
+        width: 24.9%;
+        transform: rotate( -20deg);
+        flex-direction: row-reverse;
+        margin: 6.8rem 0rem 0rem 22rem;
+    }
+
+    .midNWU1 {
+
+        position: fixed;
+        width: 19.9%;
+        transform: rotate( -20deg);
+        flex-direction: row-reverse;
+        margin: 9.5rem 0rem 0rem 26.2rem;
+    }
+
+    .midNWU2 {
+
+        position: fixed;
+        width: 14.6%;
+        transform: rotate( -20deg);
+        flex-direction: row-reverse;
+        margin: 12.4rem 0rem 0rem 30.5rem;
+    }
+
+    .midNWU3 {
+
+        position: fixed;
+        width: 9.6%;
+        transform: rotate( -20deg);
+        flex-direction: row-reverse;
+        margin: 15.1rem 0rem 0rem 34.7rem;
+    }
+
+    .midNWU4 {
+
+        position: fixed;
+        width: 4.7%;
+        transform: rotate( -20deg);
+        flex-direction: row-reverse;
+        margin: 17.8rem 0rem 0rem 38.75rem;
+    }
+
+    .midNWL {
+        position: fixed;
+        width: 16.6%;
+        transform: rotate(-57deg);
+        flex-direction: row-reverse;
+        margin: 14.5rem 0rem 0rem 7.5rem;
+    }
+
+    .midNWL0 {
+        position: fixed;
+        width: 13.8%;
+        transform: rotate(-57deg);
+        flex-direction: row-reverse;
+        margin: 15.5rem 0rem 0rem 13.4rem;
+    }
+
+    .midNWL1 {
+        position: fixed;
+        width: 11.1%;
+        transform: rotate(-57deg);
+        flex-direction: row-reverse;
+        margin: 16.5rem 0rem 0rem 19.3rem;
+    }
+
+    .midNWL2 {
+        position: fixed;
+        width: 8.4%;
+        transform: rotate(-57deg);
+        flex-direction: row-reverse;
+        margin: 17.6rem 0rem 0rem 25.2rem;
+    }
+
+    .midNWL3 {
+        position: fixed;
+        width: 5.6%;
+        transform: rotate(-57deg);
+        flex-direction: row-reverse;
+        margin: 18.6rem 0rem 0rem 31.1rem;
+    }
+
+    .midNWL4 {
+        position: fixed;
+        width: 2.6%;
+        transform: rotate(-57deg);
+        flex-direction: row-reverse;
+        margin: 19.5rem 0rem 0rem 37rem;
+    }
+
+/*.sircle {
+    margin: -5px;
+    padding: -30px;
+    width: 10%;
+    height: 10%;
+    margin: 18.1rem 38.5rem ;
+    border: 2px dashed var(--secondary-color);
+    border-radius: 45%;
+
+}*/
+
